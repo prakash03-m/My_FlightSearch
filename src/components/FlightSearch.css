@@ -1,0 +1,29 @@
+.title {
+    color: brown;
+    margin-top: 120px;
+    font-size: xx-large;
+    background-color: burlywood;
+}
+
+.formSection {
+    background-color: cadetblue;
+}
+
+.formElement {
+    padding-top: 25px;
+}
+
+label {
+        display: inline-block;
+        width: 106px;
+        text-align: center;
+}
+
+input {
+    margin-left: 25px;
+}
+
+button {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
